@@ -1,0 +1,45 @@
+{
+    "keyboard_name": "keyboard #001",
+    "url": "https://github.com/hide-key",
+    "maintainer": "hide-key",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K00 (D1,F4)", "x": 0, "y": 0 },
+                { "label": "K01 (D1,F5)", "x": 1, "y": 0 },
+                { "label": "K02 (D1,F6)", "x": 2, "y": 0 },
+                { "label": "K03 (D1,F7)", "x": 3, "y": 0 },
+                { "label": "K04 (D1,B1)", "x": 4, "y": 0 },
+                { "label": "K05 (D1,B3)", "x": 5, "y": 0 },
+                { "label": "K06 (D1,B2)", "x": 6, "y": 0 },
+                { "label": "K07 (D1,B6)", "x": 7, "y": 0 },
+                { "label": "K08 (D1,B5)", "x": 8, "y": 0 },
+                { "label": "K09 (D1,B4)", "x": 9, "y": 0 },
+                { "label": "K0A (D1,E6)", "x": 10, "y": 0 },
+                { "label": "K0B (D1,D7)", "x": 11, "y": 0 },
+                { "label": "K10 (D0,F4)", "x": 0.25, "y": 1 },
+                { "label": "K11 (D0,F5)", "x": 1.25, "y": 1 },
+                { "label": "K12 (D0,F6)", "x": 2.25, "y": 1 },
+                { "label": "K13 (D0,F7)", "x": 3.25, "y": 1 },
+                { "label": "K14 (D0,B1)", "x": 4.25, "y": 1 },
+                { "label": "K15 (D0,B3)", "x": 5.25, "y": 1 },
+                { "label": "K16 (D0,B2)", "x": 6.25, "y": 1 },
+                { "label": "K17 (D0,B6)", "x": 7.25, "y": 1 },
+                { "label": "K18 (D0,B5)", "x": 8.25, "y": 1 },
+                { "label": "K19 (D0,B4)", "x": 9.25, "y": 1 },
+                { "label": "K1A (D0,E6)", "x": 10.25, "y": 1 },
+                { "label": "K21 (D4,F5)", "x": 0.75, "y": 2 },
+                { "label": "K22 (D4,F6)", "x": 1.75, "y": 2 },
+                { "label": "K23 (D4,F7)", "x": 2.75, "y": 2 },
+                { "label": "K24 (D4,B1)", "x": 3.75, "y": 2 },
+                { "label": "K25 (D4,B3)", "x": 4.75, "y": 2 },
+                { "label": "K26 (D4,B2)", "x": 5.75, "y": 2 },
+                { "label": "K27 (D4,B6)", "x": 6.75, "y": 2 },
+                { "label": "K28 (D4,B5)", "x": 7.75, "y": 2 },
+                { "label": "K29 (D4,B4)", "x": 8.75, "y": 2 },
+                { "label": "K2A (D4,E6)", "x": 9.75, "y": 2 }
+            ]
+        }
+    }
+    ,"meta": "https://noroadsleft.github.io/kbf_qmk_converter/"
+}
