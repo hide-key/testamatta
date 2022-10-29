@@ -1,0 +1,18 @@
+{
+    "keyboard_name": "testamatta Sunflower #000 XIAO-RP2040",
+    "url": "https://github.com/hide-key",
+    "maintainer": "hide-key",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"0,0", "x":0},
+                {"label":"0,1", "x":1},
+                {"label":"0,2", "x":2},
+                {"label":"0,3", "x":3},
+                {"label":"0,4", "x":4},
+                {"label":"0,5", "x":5},
+                {"label":"0,6", "x":6}
+            ]
+        }
+     }
+}
