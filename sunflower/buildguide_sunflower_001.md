@@ -77,7 +77,7 @@ STEPとSTLを公開します。
 
 前述の3Dデータをプリントします。私は光造形方式(SLA)にて行いました。プリントサービスを利用するのも良いかもしれません。
 
-![2](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/2.png)
+![2](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/2.jpg)
 
 
 
@@ -87,7 +87,7 @@ STEPとSTLを公開します。
 
 ダイヤル部分については、回す時に滑らないように、下地と塗装色の間に[チッピングコート(スプレー)](https://www.amazon.co.jp/%E3%82%A4%E3%83%81%E3%83%8D%E3%83%B3%E3%82%B1%E3%83%9F%E3%82%AB%E3%83%AB%E3%82%BA-Ichinen-Chemicals-%E5%87%B8%E5%87%B9%E8%80%90%E3%83%81%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E5%A1%97%E6%96%99-NX83/dp/B07B5ZDK45/ref=d_pd_sbs_sccl_3_1/358-6891682-7837701?pd_rd_w=MiJAe&content-id=amzn1.sym.ca864c39-ce73-4598-86c6-eb8514722510&pf_rd_p=ca864c39-ce73-4598-86c6-eb8514722510&pf_rd_r=AR4HY0YMWH0V6AFB5BVM&pd_rd_wg=FXy3f&pd_rd_r=97157b76-af36-4676-aabe-f0bf5b60a9e5&pd_rd_i=B07B5ZDK45&th=1)を使用して、ザラつきを出しています。
 
-![3](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/3.png)
+![3](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/3.jpg)
 
 ※上記画像、つや消しクリアを塗布する前の写真しかありませんでした。
 
@@ -122,7 +122,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 回路基板の組み立てを行い、その他のパーツ類を装着していきます。
 
-![4](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/4.png)
+![4](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/4.jpg)
 
 
 
@@ -137,7 +137,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 組み立てが完了したら、葉っぱを添えて、完成となります。
 
-![5](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/5.png)
+![5](https://github.com/hide-key/testamatta/blob/main/sunflower/images/001/5.jpg)
 
 
 
