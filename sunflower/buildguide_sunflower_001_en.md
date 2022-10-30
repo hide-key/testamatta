@@ -24,9 +24,9 @@ The 3D data itself was created using CAD software (Fusion360). However, as a res
 
 
 
-- **Flower parts：**https://www.svgrepo.com/svg/149542/sunflower 
+- **Flower parts :** https://www.svgrepo.com/svg/149542/sunflower 
 
-- **Leaf and stem parts：**https://www.svgrepo.com/svg/407548/sunflowe
+- **Leaf and stem parts :** https://www.svgrepo.com/svg/407548/sunflowe
 
   
 
@@ -36,7 +36,7 @@ If the SVG data can be imported into 3D software, then it will be three-dimensio
 
 
 
-- **Keycap stem parts：**https://github.com/ogatatsu/Kailh-Low-Profile-Keycap
+- **Keycap stem parts :** https://github.com/ogatatsu/Kailh-Low-Profile-Keycap
 
 
 
@@ -64,8 +64,8 @@ Prepare the following parts.
 
 The model data (STEP, STL) are shown below.
 
-- **STEP data：**https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/step
-- **STL data：**https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/stl
+- **STEP data :** https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/step
+- **STL data :** https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/stl
 
 
 
@@ -106,7 +106,7 @@ For the dial part, a [chipping coat (spray)](https://www.amazon.co.jp/%E3%82%A4%
 
 Below is the gerber file. Place your order with PCB Fabrication Services.
 
-- **Gerber file：**https://github.com/hide-key/testamatta/blob/main/sunflower/pcb/sunflower_001a.zip
+- **Gerber file :** https://github.com/hide-key/testamatta/blob/main/sunflower/pcb/sunflower_001a.zip
 
   
 
@@ -114,9 +114,9 @@ Below is the gerber file. Place your order with PCB Fabrication Services.
 
 Below you will find the UF2 file and source file.
 
-- **UF2 file：**https://github.com/hide-key/testamatta/blob/main/sunflower/uf2/testamatta_sunflower_000_xiao_rp2040_default.uf2
-- **JSON file：**https://github.com/hide-key/testamatta/blob/main/sunflower/json/sunflower_000_xiao_rp2040.json
-- **Source files：**https://github.com/hide-key/testamatta/tree/main/sunflower/000/xiao_rp2040
+- **UF2 file :** https://github.com/hide-key/testamatta/blob/main/sunflower/uf2/testamatta_sunflower_000_xiao_rp2040_default.uf2
+- **JSON file :** https://github.com/hide-key/testamatta/blob/main/sunflower/json/sunflower_000_xiao_rp2040.json
+- **Source files :** https://github.com/hide-key/testamatta/tree/main/sunflower/000/xiao_rp2040
 
 
 
@@ -156,9 +156,9 @@ Once the assembly is complete, place the leafs and you are done.
 
 I am also posting on the following SNS.
 
-- **Twitter：**https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg
-- **Reddit：**https://www.reddit.com/r/MechanicalKeyboards/comments/ygvdk2/original_keypadsunflower_001_xiao_rp2040_newly/?utm_source=share&utm_medium=web2x&context=3
-- **instructables：**In preparation
+- **Twitter :** https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg
+- **Reddit :** https://www.reddit.com/r/MechanicalKeyboards/comments/ygvdk2/original_keypadsunflower_001_xiao_rp2040_newly/?utm_source=share&utm_medium=web2x&context=3
+- **instructables :** In preparation
 
 
 
