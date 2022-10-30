@@ -22,9 +22,9 @@
 
 
 
-- 花の部分：https://www.svgrepo.com/svg/149542/sunflower 
+- **花の部分：**https://www.svgrepo.com/svg/149542/sunflower 
 
-- 葉っぱ＆茎の部分：https://www.svgrepo.com/svg/407548/sunflowe
+- **葉っぱ＆茎の部分：**https://www.svgrepo.com/svg/407548/sunflowe
 
   
 
@@ -34,7 +34,7 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 
 
 
-- ステム部分：https://github.com/ogatatsu/Kailh-Low-Profile-Keycap
+- **ステム部分：**https://github.com/ogatatsu/Kailh-Low-Profile-Keycap
 
 
 
@@ -48,10 +48,13 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 
 |         名称         |                             型番                             |   数量   |
 | :------------------: | :----------------------------------------------------------: | :------: |
+|         MCU          |                         XIAO RP2040                          |  1 pcs   |
 |     キースイッチ     |                      Kailh Low Profile                       |  7 pcs   |
 |      ダイオード      |                            1N4148                            |  7 pcs   |
 | ロータリーエンコーダ |                         EC12E2440301                         |  1 pcs   |
 |    クッションゴム    | [7.9x2.2mm 丸形](https://www.amazon.co.jp/gp/product/B00V5MQQB4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 4～8 pcs |
+
+※ダイオードは、スルーホールでも問題はありません。
 
 
 
@@ -59,8 +62,8 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 
 下記にモデルデータ(STEP、STL)があります。
 
-- STEPデータ：https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/step
-- STLデータ：https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/stl
+- **STEPデータ：**https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/step
+- **STLデータ：**https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/stl
 
 
 
@@ -101,7 +104,7 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 
 下記にガーバーファイルがあります。PCB製造サービスに発注してください。
 
-- ガーバーファイル：https://github.com/hide-key/testamatta/blob/main/sunflower/pcb/sunflower_001a.zip
+- **ガーバーファイル：**https://github.com/hide-key/testamatta/blob/main/sunflower/pcb/sunflower_001a.zip
 
   
 
@@ -109,8 +112,9 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 
 下記にUF2ファイルとソースファイルがあります。
 
-- UF2ファイル：https://github.com/hide-key/testamatta/blob/main/sunflower/uf2/testamatta_sunflower_000_xiao_rp2040_default.uf2
-- ソースファイル：https://github.com/hide-key/testamatta/tree/main/sunflower/000/xiao_rp2040
+- **UF2ファイル：**https://github.com/hide-key/testamatta/blob/main/sunflower/uf2/testamatta_sunflower_000_xiao_rp2040_default.uf2
+- **JSONファイル：**https://github.com/hide-key/testamatta/blob/main/sunflower/json/sunflower_000_xiao_rp2040.json
+- **ソースファイル：**https://github.com/hide-key/testamatta/tree/main/sunflower/000/xiao_rp2040
 
 
 
@@ -118,7 +122,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 ※XIAO RP2040と作業用のPCをUSBケーブルで接続して、BOOTボタンを押しながらRESETボタンを押します。 ドライブとして認識されるので、UF2ファイルをドラッグアンドドロップしてください。アップロードすると、マウント解除され、自動的に再接続されます。
 
-あとは、[REMAP](https://remap-keys.app/)を使用して好みのキーマップにしてください。
+あとは、[**REMAP**](https://remap-keys.app/)を使用して好みのキーマップにしてください。
 
 
 
@@ -130,7 +134,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 
 
-### 注意点：
+**注意点：**
 
 - XIAO RP2040は、PCBに直付けで設計しています。(ピンヘッダやコンスルーは使用しません)
 - XIAO RP2040の上に来るPetal_A_1とPetal_Bは、上記の写真のように、bridgeパーツにて接着させて下さい。
@@ -149,9 +153,9 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 下記のSNSにも投稿をしております。
 
-- Twitter：https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg
-- Reddit：https://www.reddit.com/r/MechanicalKeyboards/comments/ygvdk2/original_keypadsunflower_001_xiao_rp2040_newly/?utm_source=share&utm_medium=web2x&context=3
-- instructables：準備中
+- **Twitter：**https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg
+- **Reddit：**https://www.reddit.com/r/MechanicalKeyboards/comments/ygvdk2/original_keypadsunflower_001_xiao_rp2040_newly/?utm_source=share&utm_medium=web2x&context=3
+- **instructables：**準備中
 
 
 
