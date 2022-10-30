@@ -18,10 +18,10 @@
 
 
 
-- **ロゴ：**https://freesvgdesigns.com/a-very-merry-christmas-free-svg-files-1489/ (商用利用不可)
-- **星：**https://www.freesvgdownload.com/christmas-tree-svg-png-free-christmas-cut-files/ (商用利用不可)
-- **雪の結晶：**https://www.freesvgdownload.com/snowflakes-svg-png-free-christmas-cut-files/ (商用利用不可)
-- **サンタのソリ：**https://www.craftingspree.com/free-cricut-christmas-svgs-1 (商用利用可)
+- **ロゴ :** https://freesvgdesigns.com/a-very-merry-christmas-free-svg-files-1489/ (商用利用不可)
+- **星 :** https://www.freesvgdownload.com/christmas-tree-svg-png-free-christmas-cut-files/ (商用利用不可)
+- **雪の結晶 :** https://www.freesvgdownload.com/snowflakes-svg-png-free-christmas-cut-files/ (商用利用不可)
+- **サンタのソリ :** https://www.craftingspree.com/free-cricut-christmas-svgs-1 (商用利用可)
 
 
 
@@ -59,7 +59,7 @@
 
 下記にガーバーファイルがあります。PCB製造サービスに発注してください。
 
-- **ガーバーファイル：**https://github.com/hide-key/testamatta/blob/main/macropad/pcb/macropad_000f.zip
+- **ガーバーファイル :** https://github.com/hide-key/testamatta/blob/main/macropad/pcb/macropad_000f.zip
 
   
 
@@ -119,9 +119,9 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 下記のSNSにも投稿をしております。
 
-- **Twitter：**準備中
-- **Reddit：**準備中
-- **instructables：**準備中
+- **Twitter :** 準備中
+- **Reddit :** 準備中
+- **instructables :** 準備中
 
 
 
