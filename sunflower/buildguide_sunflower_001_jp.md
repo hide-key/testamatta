@@ -122,7 +122,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 回路基板の組み立てを行い、その他のパーツ類を装着していきます。
 
-![](assets/buildguide_sunflower_001_jp/4.jpg)
+![4](assets/buildguide_sunflower_001_jp/4.jpg)
 
 
 
