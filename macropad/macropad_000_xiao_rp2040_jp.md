@@ -45,13 +45,13 @@
 |           LED            |                WS2812B-B                | 1 pcs  |
 |      クッションゴム      |             7.9x2.2mm 丸形              | ５ pcs |
 
-※キースイッチは、Kailh Low ProfileやCherry MXも使用できます。X Switch以外の場合、別途、キーキャップを用意してください。
+※キースイッチは、Kailh Low ProfileやCherry MXも使用できます。ソケットには対応してません。X Switch以外の場合、別途、キーキャップを用意してください。
 
 ※ダイオードは、SMDも使用できます。
 
 ※コンデンサとLEDはSMDのみ使用可です。
 
-※クッションゴムは、好みのサイズで問題ありません。
+※クッションゴムは、好みのサイズでも問題ありません。
 
 
 
@@ -59,7 +59,7 @@
 
 下記にガーバーファイルがあります。PCB製造サービスに発注してください。
 
-- **ガーバーファイル：**
+- **ガーバーファイル：**https://github.com/hide-key/testamatta/blob/main/macropad/pcb/macropad_000f.zip
 
   
 
@@ -87,9 +87,9 @@
 
 下記にUF2ファイルとソースファイルがあります。
 
-- **UF2ファイル：**
-- **JSONファイル：**
-- **ソースファイル：**
+- **UF2ファイル：**https://github.com/hide-key/testamatta/blob/main/macropad/uf2/testamatta_macropad_000_xiao_rp2040_default.uf2
+- **JSONファイル：**https://github.com/hide-key/testamatta/blob/main/macropad/json/macropad_000_xiao_rp2040.json
+- **ソースファイル：**https://github.com/hide-key/testamatta/tree/main/macropad/000/xiao_rp2040
 
 
 
@@ -99,7 +99,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 あとは、[**REMAP**](https://remap-keys.app/)を使用して好みのキーマップにしてください。
 
-下記の画像は、デフォルトのキーマップ(レイヤー0＆1)です。お分かりの通り、もはやキーパッドではなく、単なるイルミネーション機能だけをマッピングしたオーナメント状態ですｗ
+下記の画像は、デフォルトのキーマップ(レイヤー0＆1)です。見れば分かる通り、もはやキーパッドではなく、イルミネーション機能だけをマッピングした単なるオーナメント状態ですｗ
 
 ![](assets/macropad_100_xiao_rp2040/remap_000.png)
 
