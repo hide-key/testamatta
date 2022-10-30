@@ -77,7 +77,7 @@ STEPとSTLを公開します。
 
 前述の3Dデータをプリントします。私は光造形方式(SLA)にて行いました。プリントサービスを利用するのも良いかもしれません。
 
-![](assets/buildguide_sunflower_001_jp/2.jpg)
+<img src="assets/buildguide_sunflower_001_jp/2.jpg" style="zoom: 50%;" />
 
 
 
