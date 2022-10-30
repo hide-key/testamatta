@@ -2,7 +2,7 @@
 
 
 
-![](assets/macropad_100_xiao_rp2040/IMG_0001.png)
+![](assets/macropad_000_xiao_rp2040_jp/IMG_0001.png)
 
 
 
@@ -63,7 +63,7 @@
 
   
 
-  ![](assets/macropad_100_xiao_rp2040/IMG_2942.png)
+  ![](assets/macropad_000_xiao_rp2040_jp/IMG_2942.png)
 
   
 
@@ -101,7 +101,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 下記の画像は、デフォルトのキーマップ(レイヤー0＆1)です。見れば分かる通り、もはやキーパッドではなく、イルミネーション機能だけをマッピングした単なるオーナメント状態ですｗ
 
-![](assets/macropad_100_xiao_rp2040/remap_000.png)
+![](assets/macropad_000_xiao_rp2040_jp/remap_000.png)
 
 ## ■完成
 
@@ -109,7 +109,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 これで完成となります。
 
-![](assets/macropad_100_xiao_rp2040_jp/IMG_2974.png)
+![](assets/macropad_000_xiao_rp2040_jp/IMG_2974_2.png)
 
 
 
