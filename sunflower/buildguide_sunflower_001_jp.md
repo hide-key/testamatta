@@ -1,6 +1,6 @@
 # Sunflower #001 ビルドガイド
 
-*The English version of the build guide is in preparation.
+*English version is [here](https://github.com/hide-key/testamatta/blob/main/sunflower/buildguide_sunflower_001_en.md).
 
 
 
@@ -42,18 +42,18 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 
 下記のパーツを準備して下さい。
 
-|         名称         |                             型番                             | 数量  |
-| :------------------: | :----------------------------------------------------------: | :---: |
-|     キースイッチ     |                      Kailh Low Profile                       | 7 pcs |
-|      ダイオード      |                            1N4148                            | 7 pcs |
-| ロータリーエンコーダ |                         EC12E2440301                         | 1 pcs |
-|    クッションゴム    | [7.9x2.2mm 丸形](https://www.amazon.co.jp/gp/product/B00V5MQQB4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 8 pcs |
+|         名称         |                             型番                             |   数量   |
+| :------------------: | :----------------------------------------------------------: | :------: |
+|     キースイッチ     |                      Kailh Low Profile                       |  7 pcs   |
+|      ダイオード      |                            1N4148                            |  7 pcs   |
+| ロータリーエンコーダ |                         EC12E2440301                         |  1 pcs   |
+|    クッションゴム    | [7.9x2.2mm 丸形](https://www.amazon.co.jp/gp/product/B00V5MQQB4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 4～8 pcs |
 
 
 
 ## ■3Dデータ
 
-STEPとSTLを公開します。
+下記にモデルデータ(STEP、STL)があります。
 
 - STEPデータ：https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/step
 - STLデータ：https://github.com/hide-key/testamatta/tree/main/sunflower/model_data/stl
@@ -152,3 +152,5 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 
 最後まで読んで頂きありがとうございました。
+
+良きキーボードライフを。
