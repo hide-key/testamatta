@@ -1,6 +1,6 @@
 # MacroPad #000 XIAO RP2040 build guide
 
-
+※日本語版は[コチラ](https://github.com/hide-key/testamatta/blob/main/macropad/macropad_000_xiao_rp2040_jp.md)
 
 ![](assets/macropad_000_xiao_rp2040_jp/IMG_0001.png)
 
@@ -25,9 +25,9 @@ Although free materials are used for the designs, some materials are not availab
 
 
 
-※Since it was made for the purpose of a rapid prototype, the above materials were used and diverted.
+*Since it was made for the purpose of a rapid prototype, the above materials were used and diverted.
 
-※The star shape of the outer shape is original.
+*The star shape of the outer shape is original.
 
 
 
