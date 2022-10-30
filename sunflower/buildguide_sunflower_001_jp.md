@@ -8,9 +8,13 @@
 
 
 
+[TOC]
+
 [バナナ](https://github.com/dbostian/bananasplit)や[トウモロコシ](https://www.reddit.com/r/MechanicalKeyboards/comments/xwddp5/ic_spring_2023_iowa_mechanical_keyboard_meetup_ic/)のキーボードを見て、私も「何か作りたい」と思い、家族と話をしていたところ「ヒマワリはどう？」と言われ、私は「え？ヒマワリ!?」と思いました。「ヒマワリですか…困」と。
 
 早速、ヒマワリを検索。当初はリアルなヒマワリを想像していたのですが、アイコンのように簡略化されたデザインが多く、これならば作れるかもと思った次第。
+
+
 
 ## ■デザイン
 
