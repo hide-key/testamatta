@@ -1,4 +1,4 @@
-# MacroPad #100 XIAO RP2040 ビルドガイド
+# MacroPad #000 XIAO RP2040 ビルドガイド
 
 
 
@@ -45,7 +45,7 @@
 |           LED            |                WS2812B-B                | 1 pcs  |
 |      クッションゴム      |             7.9x2.2mm 丸形              | ５ pcs |
 
-※キースイッチは、Kailh Low ProfileやCherry MXも使用できます。
+※キースイッチは、Kailh Low ProfileやCherry MXも使用できます。X Switch以外の場合、別途、キーキャップを用意してください。
 
 ※ダイオードは、SMDも使用できます。
 

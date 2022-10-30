@@ -1,0 +1,14 @@
+{
+    "name":"testamatta MacroPad #000 XIAO-RP2040",
+    "vendorId":"0x1d8c",
+    "productId":"0x1000",
+    "lighting":"none",
+    "matrix":{"rows":1,"cols":5},
+    "layouts":{
+        "keymap":[
+            ["0,0", {"x":0.5}, {"y":-0.5}, "0,4", {"x":0.5,"y":0.5}, "0,3"],
+            [{"x":0.5,"y":0.5}, "0,1", {"x":1}, "0,2"]
+        ]
+    }
+
+}
