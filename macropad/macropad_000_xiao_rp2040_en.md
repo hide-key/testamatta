@@ -85,7 +85,7 @@ Other parts are through-holes, so you can proceed with normal soldering procedur
 
 ## ■Firmware
 
-Below you will find the UF2 file and source file.
+Below are UF2 file, JSON file, and source files.
 
 - **UF2 file :** https://github.com/hide-key/testamatta/blob/main/macropad/uf2/testamatta_macropad_000_xiao_rp2040_default.uf2
 

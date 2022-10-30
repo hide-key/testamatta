@@ -112,7 +112,7 @@ Below is the gerber file. Place your order with PCB Fabrication Services.
 
 ## ■Firmware
 
-Below you will find the UF2 file and source file.
+Below are UF2 file, JSON file, and source files.
 
 - **UF2 file :** https://github.com/hide-key/testamatta/blob/main/sunflower/uf2/testamatta_sunflower_000_xiao_rp2040_default.uf2
 - **JSON file :** https://github.com/hide-key/testamatta/blob/main/sunflower/json/sunflower_000_xiao_rp2040.json

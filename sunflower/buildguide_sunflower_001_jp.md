@@ -110,7 +110,7 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 
 ## ■ファームウェア
 
-下記にUF2ファイルとソースファイルがあります。
+下記にUF2ファイル、JSONファイル、ソースファイルがあります。
 
 - **UF2ファイル :** https://github.com/hide-key/testamatta/blob/main/sunflower/uf2/testamatta_sunflower_000_xiao_rp2040_default.uf2
 - **JSONファイル :** https://github.com/hide-key/testamatta/blob/main/sunflower/json/sunflower_000_xiao_rp2040.json
