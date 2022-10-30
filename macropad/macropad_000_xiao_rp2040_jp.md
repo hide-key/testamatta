@@ -1,6 +1,6 @@
 # MacroPad #000 XIAO RP2040 ビルドガイド
 
-
+*English version is [here](https://github.com/hide-key/testamatta/blob/main/macropad/macropad_000_xiao_rp2040_en.md).
 
 ![](assets/macropad_000_xiao_rp2040_jp/IMG_0001.png)
 
