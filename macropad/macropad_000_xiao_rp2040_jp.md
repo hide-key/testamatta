@@ -87,9 +87,9 @@
 
 下記にUF2ファイルとソースファイルがあります。
 
-- **UF2ファイル：**https://github.com/hide-key/testamatta/blob/main/macropad/uf2/testamatta_macropad_000_xiao_rp2040_default.uf2
-- **JSONファイル：**https://github.com/hide-key/testamatta/blob/main/macropad/json/macropad_000_xiao_rp2040.json
-- **ソースファイル：**https://github.com/hide-key/testamatta/tree/main/macropad/000/xiao_rp2040
+- **UF2ファイル :** https://github.com/hide-key/testamatta/blob/main/macropad/uf2/testamatta_macropad_000_xiao_rp2040_default.uf2
+- **JSONファイル :** https://github.com/hide-key/testamatta/blob/main/macropad/json/macropad_000_xiao_rp2040.json
+- **ソースファイル :** https://github.com/hide-key/testamatta/tree/main/macropad/000/xiao_rp2040
 
 
 
