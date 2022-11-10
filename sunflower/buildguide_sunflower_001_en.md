@@ -158,9 +158,9 @@ I am also posting on the following SNS.
 
 
 
-- **Twitter :** https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg
-- **Reddit :** https://www.reddit.com/r/MechanicalKeyboards/comments/ygvdk2/original_keypadsunflower_001_xiao_rp2040_newly/?utm_source=share&utm_medium=web2x&context=3
-- **instructables :** In preparation
+- **[Twitter](https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg)**  *This keypad post.
+- **[Reddit](https://www.reddit.com/user/hide-key/)** *Various posts including this keypad.
+- **[instructables](https://www.instructables.com/Original-KeypadSunflower-001-XIAO-RP2040-Newly-Des/)** : *This keypad post. There are also other posts.
 
 
 

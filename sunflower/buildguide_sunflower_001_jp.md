@@ -155,9 +155,9 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 
 
-- **Twitter :** https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg
-- **Reddit :** https://www.reddit.com/r/MechanicalKeyboards/comments/ygvdk2/original_keypadsunflower_001_xiao_rp2040_newly/?utm_source=share&utm_medium=web2x&context=3
-- **instructables :** 準備中
+- **[Twitter](https://twitter.com/nakahide2nd/status/1586337926232694784?s=20&t=6Jq-9BXEgQ14RIv-VRTCxg)** ※このキーパッドの投稿です。
+- **[Reddit](https://www.reddit.com/user/hide-key/)** ※このキーパッドを含む、自作キーボードの投稿です。
+- **[instructables](https://www.instructables.com/Original-KeypadSunflower-001-XIAO-RP2040-Newly-Des/)** ※このキーパッドの投稿。その他の投稿もあります。
 
 
 
