@@ -54,6 +54,7 @@ Prepare the following parts.
 |   Key switch   |                      Kailh Low Profile                       |  7 pcs   |
 |     Diode      |                            1N4148                            |  7 pcs   |
 | Rotary encoder |                         EC12E2440301                         |  1 pcs   |
+|     Screw      |                            M2 8mm                            |  8 pcs   |
 | Cushion rubber | [7.9x2.2mm Circular](https://www.amazon.co.jp/gp/product/B00V5MQQB4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 4～8 pcs |
 
 *There is no problem with through-hole diodes.

@@ -52,6 +52,7 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 |     キースイッチ     |                      Kailh Low Profile                       |  7 pcs   |
 |      ダイオード      |                            1N4148                            |  7 pcs   |
 | ロータリーエンコーダ |                         EC12E2440301                         |  1 pcs   |
+|         ねじ         |                            M2 8mm                            |  8 pcs   |
 |    クッションゴム    | [7.9x2.2mm 丸形](https://www.amazon.co.jp/gp/product/B00V5MQQB4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 4～8 pcs |
 
 ※ダイオードは、スルーホールでも問題はありません。
