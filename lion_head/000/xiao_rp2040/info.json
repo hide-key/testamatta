@@ -1,0 +1,14 @@
+{
+    "keyboard_name": "testamatta Lion Head #000 XIAO-RP2040",
+    "url": "https://github.com/hide-key",
+    "maintainer": "hide-key",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"0,0", "x":0},
+                {"label":"0,1", "x":1},
+                {"label":"0,2", "x":2}
+            ]
+        }
+     }
+}
