@@ -1,0 +1,13 @@
+{
+    "name":"testamatta Lion Head #000 XIAO-RP2040",
+    "vendorId":"0x1d8c",
+    "productId":"0x3000",
+    "lighting":"none",
+    "matrix":{"rows":1,"cols":3},
+    "layouts":{
+        "keymap":[
+            ["0,0","0,1","0,2"]
+        ]
+    }
+
+}
