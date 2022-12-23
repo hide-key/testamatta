@@ -123,7 +123,7 @@ I am also posting on the following SNS.
 
 
 - **Twitter :** https://twitter.com/nakahide2nd/status/1606328878674239489?s=20&t=HfnvW3qc-qxqZ18BeSYCIA
-- **Instagram :**https://www.instagram.com/p/CmhJw6wvMFF/?utm_source=ig_web_copy_link
+- **Instagram :** https://www.instagram.com/p/CmhJw6wvMFF/?utm_source=ig_web_copy_link
 - **Reddit :** In preparation
 - **instructables :** In preparation
 
@@ -132,3 +132,4 @@ I am also posting on the following SNS.
 Thank you very much for reading to the end.
 
 Have a nice keyboard life.
+
