@@ -122,7 +122,7 @@ I am also posting on the following SNS.
 
 
 
-- **Twitter :** In preparation
+- **Twitter :** https://twitter.com/nakahide2nd/status/1606328878674239489?s=20&t=HfnvW3qc-qxqZ18BeSYCIA
 - **Reddit :** In preparation
 - **instructables :** In preparation
 

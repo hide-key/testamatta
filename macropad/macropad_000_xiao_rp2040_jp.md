@@ -119,7 +119,7 @@ UF2ファイルを使用する場合、XIAO RP2040をブートローダーモー
 
 下記のSNSにも投稿をしております。
 
-- **Twitter :** 準備中
+- **Twitter :** https://twitter.com/nakahide2nd/status/1606328878674239489?s=20&t=HfnvW3qc-qxqZ18BeSYCIA
 - **Reddit :** 準備中
 - **instructables :** 準備中
 
