@@ -124,7 +124,7 @@ I am also posting on the following SNS.
 
 - **Twitter :** https://twitter.com/nakahide2nd/status/1606328878674239489?s=20&t=HfnvW3qc-qxqZ18BeSYCIA
 - **Instagram :** https://www.instagram.com/p/CmhJw6wvMFF/?utm_source=ig_web_copy_link
-- **Reddit :** In preparation
+- **Reddit :** https://www.reddit.com/r/MechanicalKeyboards/comments/zu9bp6/new_original_design_keypad_a_keypad_that_imitates/
 - **instructables :** In preparation
 
 
