@@ -143,9 +143,10 @@
 
 
 
-- **[Twitter](https://twitter.com/nakahide2nd/)**  ※準備中…
-- **[Reddit](https://www.reddit.com/user/hide-key/)**  ※準備中…
-- **[instructables](https://www.instructables.com/member/hide-key/)**  ※準備中…
+- **Twitter** : https://twitter.com/nakahide2nd/status/1609593832911536129?s=20&t=q5LzWc66tWL6_BrWK2t76A
+- **Instagram** : https://www.instagram.com/p/Cm4UbsKvuOh/?utm_source=ig_web_copy_link
+- **Reddit** : [https://www.reddit.com/r/MechanicalKeyboards/comments/100nt7v/鎌倉宮_獅子頭kamakuragū_lion_head_000_xiao_rp2040i/?utm_source=share&utm_medium=web2x&context=3](https://www.reddit.com/r/MechanicalKeyboards/comments/100nt7v/鎌倉宮_獅子頭kamakuragū_lion_head_000_xiao_rp2040i/?utm_source=share&utm_medium=web2x&context=3)
+- **instructables** : ※準備中…
 
 
 
