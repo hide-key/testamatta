@@ -142,7 +142,7 @@ After assembling the circuit board and keyboard parts, we will install other par
 
 ## ■Completing
 
-Once the assembly is complete, place the leafs and you are done.
+Once the firmware has been written and the assembly is completed, it is completed.
 
 ![](assets/buildguide_lion_head_000_en/IMG_3454.png)
 
@@ -159,7 +159,7 @@ I am also posting on the following SNS.
 - **Twitter** : https://twitter.com/nakahide2nd/status/1609593832911536129?s=20&t=q5LzWc66tWL6_BrWK2t76A
 - **Instagram** : https://www.instagram.com/p/Cm4UbsKvuOh/?utm_source=ig_web_copy_link
 - **Reddit** : [https://www.reddit.com/r/MechanicalKeyboards/comments/100nt7v/鎌倉宮_獅子頭kamakuragū_lion_head_000_xiao_rp2040i/?utm_source=share&utm_medium=web2x&context=3](https://www.reddit.com/r/MechanicalKeyboards/comments/100nt7v/鎌倉宮_獅子頭kamakuragū_lion_head_000_xiao_rp2040i/?utm_source=share&utm_medium=web2x&context=3)
-- **instructables** : *Under preparation…
+- **instructables** : [https://www.instructables.com/Keypad鎌倉宮-獅子頭Kamakura-gū-Lion-Head-000-XIAO-RP2040/](https://www.instructables.com/Keypad鎌倉宮-獅子頭Kamakura-gū-Lion-Head-000-XIAO-RP2040/)
 
 
 
