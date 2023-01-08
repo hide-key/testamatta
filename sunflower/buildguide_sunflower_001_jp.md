@@ -24,7 +24,7 @@
 
 - **花の部分 :** https://www.svgrepo.com/svg/149542/sunflower 
 
-- **葉っぱ＆茎の部分 :** https://www.svgrepo.com/svg/407548/sunflowe
+- **葉っぱ＆茎の部分 :** https://www.svgrepo.com/svg/407548/sunflower
 
   
 

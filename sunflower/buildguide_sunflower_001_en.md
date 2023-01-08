@@ -26,7 +26,7 @@ The 3D data itself was created using CAD software (Fusion360). However, as a res
 
 - **Flower parts :** https://www.svgrepo.com/svg/149542/sunflower 
 
-- **Leaf and stem parts :** https://www.svgrepo.com/svg/407548/sunflowe
+- **Leaf and stem parts :** https://www.svgrepo.com/svg/407548/sunflower
 
   
 
