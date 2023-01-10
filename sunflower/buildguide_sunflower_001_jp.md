@@ -16,32 +16,6 @@
 
 
 
-## ■デザイン
-
-3Dデータ自体は、Fusion360を使用してオリジナルで作ったのですが、完成した結果、検索時のアイコンデザインに脳内が引っ張られていたようで、あまりにも酷似していたこともあり、このデザインを参照したということにします。
-
-
-
-- **花の部分 :** https://www.svgrepo.com/svg/149542/sunflower 
-
-- **葉っぱ＆茎の部分 :** https://www.svgrepo.com/svg/407548/sunflower
-
-  
-
-SVGデータを3Dソフトにインポートができれば、あとは立体化して、キーボード化するという感じです。
-
-キーキャップ部分の作成方法は、[この記事](https://kbd.news/Homemade-keycaps-1643.html)でも紹介して頂きましたが、これまでの実績として下記のステム部分のデータが、キースイッチ(Kailh Low Profile)との相性が最も良かったです。
-
-
-
-- **ステム部分 :** https://github.com/ogatatsu/Kailh-Low-Profile-Keycap
-
-
-
-上記が基本的なデザイン要素になります。
-
-
-
 ## ■必要なパーツ
 
 下記のパーツを準備して下さい。
@@ -55,7 +29,7 @@ SVGデータを3Dソフトにインポートができれば、あとは立体化
 |         ねじ         |                            M2 8mm                            |  8 pcs   |
 |    クッションゴム    | [7.9x2.2mm 丸形](https://www.amazon.co.jp/gp/product/B00V5MQQB4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 4～8 pcs |
 
-※ダイオードは、スルーホールでも問題はありません。
+※ダイオードは、スルーホールでもSMDでも問題はありません。(両方に対応)
 
 
 

@@ -18,33 +18,7 @@ Search for sunflowers. At first, I imagined a realistic sunflower, but many of t
 
 
 
-## ■Design
-
-The 3D data itself was created using CAD software (Fusion360). However, as a result of the completion, it seems that the icon design at the time of the search was pulled in my head, and it was too similar, so I will refer to this design.
-
-
-
-- **Flower parts :** https://www.svgrepo.com/svg/149542/sunflower 
-
-- **Leaf and stem parts :** https://www.svgrepo.com/svg/407548/sunflower
-
-  
-
-If the SVG data can be imported into 3D software, then it will be three-dimensionalized and made into a keyboard.
-
-[Here](https://kbd.news/Homemade-keycaps-1643.html) is how I created my keycaps. As a track record so far, the data of the stem part below has the best compatibility with the key switch (Kailh Low Profile).
-
-
-
-- **Keycap stem parts :** https://github.com/ogatatsu/Kailh-Low-Profile-Keycap
-
-
-
-The above are basic design elements.
-
-
-
-## ■Parts needed
+## ■Supplies
 
 Prepare the following parts.
 
@@ -57,7 +31,7 @@ Prepare the following parts.
 |     Screw      |                            M2 8mm                            |  8 pcs   |
 | Cushion rubber | [7.9x2.2mm Circular](https://www.amazon.co.jp/gp/product/B00V5MQQB4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 4～8 pcs |
 
-*There is no problem with through-hole diodes.
+*It does not matter if the diode is through-hole or SMD. (supports both)
 
 
 
