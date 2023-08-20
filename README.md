@@ -16,7 +16,7 @@
 
 - ### **MacroPad:** 
   
-  - MacroPad #000 XIAO RP2040 ([en](macropad/macropad_000_xiao_rp2040_en.md), [jp](macropad/macropad_000_xiao_rp2040_jp.md))
+  - **MacroPad #000 XIAO RP2040 ([en](macropad/macropad_000_xiao_rp2040_en.md), [jp](macropad/macropad_000_xiao_rp2040_jp.md))**
   
     ![](macropad/assets/macropad_000_xiao_rp2040_jp/IMG_0001.png)
   
