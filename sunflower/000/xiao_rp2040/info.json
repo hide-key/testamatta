@@ -2,6 +2,20 @@
     "keyboard_name": "testamatta Sunflower #000 XIAO-RP2040",
     "url": "https://github.com/hide-key",
     "maintainer": "hide-key",
+    "manufacturer": "hide-key",
+    "usb": {
+        "vid": "0x1d8c",
+        "pid": "0x2000",
+        "device_version": "0x0000"
+    },
+    "bootmagic": {
+        "matrix": [0, 0]
+    },
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [

@@ -1,6 +1,5 @@
 #pragma once
 
-#include "config_common.h"
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x1d8c
@@ -39,3 +38,5 @@
 #define ENCODER_RESOLUTION 4
 
 // #define ENCODER_DIRECTION_FLIP
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8

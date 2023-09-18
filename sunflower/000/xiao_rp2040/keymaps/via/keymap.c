@@ -1,46 +1,54 @@
 #include "xiao_rp2040.h"
 
+enum layers {
+    _LAYER0 = 0,
+    _LAYER1,
+    _LAYER2,
+    _LAYER3,
+    _LAYER4,
+    _LAYER5,
+    _LAYER6,
+    _LAYER7,
+};
+
+
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
-	LAYOUT(
-		KC_0, KC_1, KC_2, KC_3, KC_4, KC_5, KC_6),
+	[_LAYER0] = LAYOUT(
+		LT(_LAYER1, KC_0), LT(_LAYER2, KC_1), LT(_LAYER3, KC_2), LT(_LAYER4, KC_3), LT(_LAYER5, KC_4), LT(_LAYER6, KC_5), LT(_LAYER7, KC_6)),
 
-	LAYOUT(
+	[_LAYER1] = LAYOUT(
+	    KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
+
+	[_LAYER2] = LAYOUT(
 		KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
 
-	LAYOUT(
+	[_LAYER3] = LAYOUT(
 		KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
 
-	LAYOUT(
+	[_LAYER4] = LAYOUT(
 		KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
 
-	LAYOUT(
+	[_LAYER5] = LAYOUT(
 		KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
 
-	LAYOUT(
+	[_LAYER6] = LAYOUT(
 		KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
 
-	LAYOUT(
-		KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
-
-	LAYOUT(
+	[_LAYER7] = LAYOUT(
 		KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS),
 
 };
 
-bool encoder_update_user(uint8_t index, bool clockwise) {
-    if (index == 0) { /* First encoder */
-        if (clockwise) {
-            tap_code(KC_UP);
-        } else {
-            tap_code(KC_DOWN);
-        }
-/*    } else if (index == 1) { // Second encoder
-        if (clockwise) {
-            tap_code(KC_PGDN);
-        } else {
-            tap_code(KC_PGUP);
-        } */
-    }
-    return false;
-}
+#ifdef ENCODER_MAP_ENABLE
+const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][2] = {
+    [0] = { ENCODER_CCW_CW(KC_UP, KC_DOWN) },
+    [1] = { ENCODER_CCW_CW(KC_PGDN, KC_PGUP) },
+    [2] = { ENCODER_CCW_CW(KC_VOLU, KC_VOLD) },
+    [3] = { ENCODER_CCW_CW(KC_TRNS, KC_TRNS) },
+    [4] = { ENCODER_CCW_CW(KC_TRNS, KC_TRNS) },
+    [5] = { ENCODER_CCW_CW(KC_TRNS, KC_TRNS) },
+    [6] = { ENCODER_CCW_CW(KC_TRNS, KC_TRNS) },
+    [7] = { ENCODER_CCW_CW(KC_TRNS, KC_TRNS) },
+};
+#endif

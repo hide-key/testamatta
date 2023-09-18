@@ -19,6 +19,9 @@ BLUETOOTH_ENABLE = no       # Enable Bluetooth
 AUDIO_ENABLE = no           # Audio output
 
 VIA_ENABLE = yes
+LTO_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+ENCODER_ENABLE = yes
 
 WS2812_DRIVER = vendor
 SERIAL_DRIVER = vendor
@@ -28,5 +31,3 @@ BOARD = GENERIC_RP_RP2040
 # MCU_FAMILY = PICO
 # MCU_SERIES = RP2040
 # MCU = cortex-m0plus
-
-ENCODER_ENABLE = yes
