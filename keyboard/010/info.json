@@ -1,0 +1,41 @@
+{
+    "keyboard_name": "testamatta KEYBOARD #010",
+    "url": "https://github.com/hide-key",
+    "maintainer": "hide-key",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"Q", "x":0, "y":0},
+                {"label":"W", "x":1, "y":0},
+                {"label":"E", "x":2, "y":0},
+                {"label":"R", "x":3, "y":0},
+                {"label":"T", "x":4, "y":0},
+                {"label":"Y", "x":6, "y":0},
+                {"label":"U", "x":7, "y":0},
+                {"label":"I", "x":8, "y":0},
+                {"label":"O", "x":9, "y":0},
+                {"label":"P", "x":10, "y":0},
+                {"label":"A", "x":0, "y":1},
+                {"label":"S", "x":1, "y":1},
+                {"label":"D", "x":2, "y":1},
+                {"label":"F", "x":3, "y":1},
+                {"label":"G", "x":4, "y":1},
+                {"label":"H", "x":6, "y":1},
+                {"label":"J", "x":7, "y":1},
+                {"label":"K", "x":8, "y":1},
+                {"label":"L", "x":9, "y":1},
+                {"label":"Enter", "x":10, "y":1},
+                {"label":"Z", "x":0, "y":2},
+                {"label":"X", "x":1, "y":2},
+                {"label":"C", "x":2, "y":2},
+                {"label":"V", "x":3, "y":2},
+                {"x":4, "y":2},
+                {"x":6, "y":2},
+                {"label":"B", "x":7, "y":2},
+                {"label":"N", "x":8, "y":2},
+                {"label":"M", "x":9, "y":2},
+                {"label":"Shift", "x":10, "y":2}
+            ]
+        }
+    }
+}
