@@ -18,7 +18,7 @@
 
 #### **Kamakura-gū Lion Head #000 XIAO RP2040** ([en](lion_head/buildguide_lion_head_000_en.md), [jp](lion_head/buildguide_lion_head_000_jp.md))
 
-![](lion_head/assets/buildguide_lion_head_000_en/IMG_3451.JPG)
+![](lion_head/assets/IMG_3449.png)
 
 
 
