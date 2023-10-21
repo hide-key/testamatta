@@ -1,5 +1,5 @@
 {
-    "keyboard_name": "testamatta KEYBOARD #011",
+    "keyboard_name": "testamatta KEYBOARD #011 rev2",
     "manufacturer": "testamatta Design Garage",
     "maintainer": "hide-key",
     "processor": "RP2040",
@@ -26,7 +26,7 @@
     },
     "usb": {
         "device_version": "0.0.2",
-        "pid": "0x0004",
+        "pid": "0x0005",
         "vid": "0x1D8C",
         "polling_interval": 1
     },
@@ -69,18 +69,18 @@
                 {"label": ".", "x": 9, "y": 2},
                 {"label": "/", "x": 10, "y": 2},
                 {"label": "Enter", "x": 11, "y": 2},
-                {"label": "KC_NO", "x": 0, "y": 3},
-                {"label": "Ctrl", "x": 1, "y": 3},
-                {"label": "Alt", "x": 2, "y": 3},
-                {"label": "GUI", "x": 3, "y": 3},
-                {"label": "KC_TRNS", "x": 4, "y": 3},
+                {"label": "Ctrl", "x": 0, "y": 3},
+                {"label": "Alt", "x": 1, "y": 3},
+                {"label": "GUI", "x": 2, "y": 3},
+                {"label": "KC_TRNS", "x": 3, "y": 3},
+                {"label": "Space", "x": 4, "y": 3},
                 {"label": "Space", "x": 5, "y": 3},
                 {"label": "Space", "x": 6, "y": 3},
-                {"label": "Left", "x": 7, "y": 3},
-                {"label": "Down", "x": 8, "y": 3},
-                {"label": "Up", "x": 9, "y": 3},
-                {"label": "Right", "x": 10, "y": 3}
-                {"label": "KC_NO", "x": 11, "y": 3}
+                {"label": "Space", "x": 7, "y": 3},
+                {"label": "Left", "x": 8, "y": 3},
+                {"label": "Down", "x": 9, "y": 3},
+                {"label": "Up", "x": 10, "y": 3},
+                {"label": "Right", "x": 11, "y": 3}
             ]
         }
     }

@@ -4,7 +4,7 @@
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x1d8c
-#define PRODUCT_ID      0x000a
+#define PRODUCT_ID      0x0003
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    "hide-key"
 #define PRODUCT         "testamatta KEYBORD #010"

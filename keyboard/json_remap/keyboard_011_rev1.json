@@ -1,7 +1,7 @@
 {
   "name": "testamatta KEYBOARD #011",
   "vendorId": "0x1D8C",
-  "productId": "0x1003",
+  "productId": "0x0004",
   "keycodes": [],
   "customKeycodes": [],
   "matrix": {
