@@ -4,7 +4,7 @@
 
 - # **Keyboard:**
 
-  - #### **KEYBOARD #011 ([Source](keyboard/011))**
+- #### **KEYBOARD #011 ([Source](keyboard/011))**
 
 ![](keyboard/assets/testamatta_keyboard_011/IMG_3951.png)
 
